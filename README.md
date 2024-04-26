@@ -1,4 +1,2 @@
 # amzer0.github.io
-Personal portfolio site for Anthony Ortega
-
-More to come!
+https://amzer0.github.io/main/aboutme.html
