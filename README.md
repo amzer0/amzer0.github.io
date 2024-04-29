@@ -1,2 +1,2 @@
-[Link to About Me page](main/aboutme.html)
+<a href="amzer0.github.io/aboutme.html"> Link to About Me page </a>
 
