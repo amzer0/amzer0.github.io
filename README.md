@@ -1,4 +1,2 @@
-# About Me
-## About You
-### About Us
+[Link to About Me page](main/aboutme.md)
 
