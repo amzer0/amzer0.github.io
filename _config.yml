@@ -1,3 +1,17 @@
 title: [Nothing Studios]
 description: [The portfolio of Anthony Ortega]
 theme: jekyll-theme-midnight
+
+collections:
+  Ballpoint_Pen:
+    output: true
+    permalink: /portfolio/ballpoint_pen/:title
+  Traditional_To_Digital:
+    output: true
+    permalink: /portfolio/traditional_to_digital/:title
+  Commissions:
+    output: true
+    permalink: /portfolio/commissions/:title
+  Inktober_2023:
+    output: true
+    permalink: /portfolio/inktober-2023/:title
