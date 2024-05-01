@@ -12,6 +12,6 @@ collections:
   Commissions:
     output: true
     permalink: /portfolio/commissions/:title
-  Inktober_2023:
+  Inktober:
     output: true
-    permalink: /portfolio/inktober-2023/:title
+    permalink: /portfolio/inktober/:title
