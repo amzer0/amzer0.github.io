@@ -3,15 +3,15 @@ description: [The portfolio of Anthony Ortega]
 theme: jekyll-theme-midnight
 
 collections:
-  Ballpoint_Pen:
+  ballpoint_pen:
     output: true
     permalink: /portfolio/ballpoint_pen/:title
-  Traditional_To_Digital:
+  traditional_to_digital:
     output: true
     permalink: /portfolio/traditional_to_digital/:title
-  Commissions:
+  commissions:
     output: true
     permalink: /portfolio/commissions/:title
-  Inktober:
+  inktober:
     output: true
     permalink: /portfolio/inktober/:title
