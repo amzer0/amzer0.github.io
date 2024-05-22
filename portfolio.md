@@ -9,7 +9,7 @@ permalink: /portfolio/
   {% for project in site.ballpoint_pen %}
   <li>
     <img src="{{ project.image }}" alt="{{ project.title }}">
-      <h3>{{ project.title }}<h3>
+      <h3>{{ project.title }}</h3>
       <p>{{ project.description}}</p>
   </li>
       {% endfor %}
@@ -20,7 +20,7 @@ permalink: /portfolio/
   {% for project in site.traditional_to_digital %}
   <li>
     <img src="{{ project.image }}" alt="{{ project.title }}">
-      <h3>{{ project.title }}<h3>
+      <h3>{{ project.title }}</h3>
       <p>{{ project.description}}</p>
   </li>
       {% endfor %}
@@ -31,7 +31,7 @@ permalink: /portfolio/
   {% for project in site.commissions %}
   <li>
     <img src="{{ project.image }}" alt="{{ project.title }}">
-      <h3>{{ project.title }}<h3>
+      <h3>{{ project.title }}</h3>
       <p>{{ project.description}}</p>
   </li>
       {% endfor %}
@@ -42,7 +42,7 @@ permalink: /portfolio/
   {% for project in site.inktober %}
   <li>
     <img src="{{ project.image }}" alt="{{ project.title }}">
-      <h3>{{ project.title }}<h3>
+      <h3>{{ project.title }}</h3>
       <p>{{ project.description}}</p>
   </li>
       {% endfor %}
