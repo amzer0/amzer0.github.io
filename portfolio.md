@@ -6,9 +6,9 @@ permalink: /portfolio/
 
 <h2>Ballpoint Pen</h2>
 <ul>
-  {% for project in site.ballpoint_pen%}
+  {% for project in site.ballpoint_pen %}
   <li>
-    <img src="{{ project.image }}" al="{{ project.title}}>
+    <img src="{{ project.image }}" alt="{{ project.title }}>
       <h3>{{ project.title }}<h3>
       <p>{{ project.description}}<p>
   </li>
@@ -17,9 +17,9 @@ permalink: /portfolio/
 
 <h2>Traditional To Digital</h2>
 <ul>
-  {% for project in site.traditional_to_digital%}
+  {% for project in site.traditional_to_digital %}
   <li>
-    <img src="{{ project.image }}" al="{{ project.title}}>
+    <img src="{{ project.image }}" alt="{{ project.title }}>
       <h3>{{ project.title }}<h3>
       <p>{{ project.description}}<p>
   </li>
@@ -28,9 +28,9 @@ permalink: /portfolio/
 
 <h2>Commissions</h2>
 <ul>
-  {% for project in site.commissions%}
+  {% for project in site.commissions %}
   <li>
-    <img src="{{ project.image }}" al="{{ project.title}}>
+    <img src="{{ project.image }}" alt="{{ project.title }}>
       <h3>{{ project.title }}<h3>
       <p>{{ project.description}}<p>
   </li>
@@ -39,9 +39,9 @@ permalink: /portfolio/
 
 <h2>Inktober</h2>
 <ul>
-  {% for project in site.inktober%}
+  {% for project in site.inktober %}
   <li>
-    <img src="{{ project.image }}" al="{{ project.title}}>
+    <img src="{{ project.image }}" alt="{{ project.title }}>
       <h3>{{ project.title }}<h3>
       <p>{{ project.description}}<p>
   </li>
